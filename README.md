@@ -1,5 +1,8 @@
 ## Hi there 👋
+I'm currently learning from learntocloud.guide
+Have made a couple of projects before but learning more!!!
 
+Interests: Coffee, coffee and coffee
 <!--
 **phantasticjay/phantasticjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
