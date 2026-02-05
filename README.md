@@ -1,8 +1,11 @@
 ## Hi there 👋
 I'm currently learning from learntocloud.guide
 Have made a couple of projects before but learning more!!!
+Learning day by day
 
 Interests: Coffee, coffee and coffee
+
+Hobby coffee roaster trying to roast on a Kaffelogic
 <!--
 **phantasticjay/phantasticjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
